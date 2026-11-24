@@ -4,3 +4,6 @@ npm install && npm run dev
 
 ## How to test
 npm test
+
+## Tech stack
+- React + Vite + Firebase
