@@ -428,3 +428,6 @@ FodyWeavers.xsd
 coverage/
 dist/
 *.local.bak
+coverage/
+dist/
+*.local.bak
